@@ -1,0 +1,5 @@
+[jumpbox]
+workstation
+
+[awsjumpbox]
+awsbastion

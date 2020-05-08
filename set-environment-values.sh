@@ -1,0 +1,10 @@
+#!/bin/bash
+OSP_GUID="5dec"
+TOWER_GUID="efe6"
+OPENTLC_LOGIN="andres.castillodominguez-atos.net"
+OPENTLC_PASSWORD="Mandrake10"
+GITHUB_REPO="https://github.com/ansible"
+JQ_REPO_BASE="http://www.opentlc.com/download/ansible_bootcamp"
+REGION="us-east-1"
+RH_MAIL_ID="andres.castillo"
+ANSIBLE_ADVANCE_GUID="efe6"
